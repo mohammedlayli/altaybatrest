@@ -1,0 +1,14 @@
+/* 1- Element Selector */
+
+p {
+    color: tomato;
+    padding: 10px;
+}
+
+h1 {
+    font-weight: bold;
+    color: gray;
+}
+
+
+
